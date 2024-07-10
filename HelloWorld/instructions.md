@@ -1,6 +1,7 @@
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
-$ go run hello-world.go
+
+`$ go run hello-world.go`
 hello world
 
 Sometimes we’ll want to build our programs into binaries. We can do this using go build.
