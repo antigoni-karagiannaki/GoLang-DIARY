@@ -1,5 +1,5 @@
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+>  How to compile and run a simple go program
 
 `$ go run hello-world.go`
 hello world
